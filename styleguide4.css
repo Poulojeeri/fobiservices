@@ -1,0 +1,68 @@
+:root { 
+  --aztec: #0e2116;
+  --aztec-2: #0e21161a;
+  --black: #000000;
+  --guardsman-red: #c60404;
+  --silver-chalice: #adadad;
+  --white: #ffffff;
+ 
+  --font-size-m2: 20px;
+  --font-size-s: 15px;
+  --font-size-xl: 50px;
+ 
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-normal-white-15px-22 {
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-guardsman-red-15px {
+  color: var(--guardsman-red);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-light-silver-chalice-15px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.poppins-normal-aztec-15px {
+  color: var(--aztec);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-semi-bold-aztec-50px {
+  color: var(--aztec);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-normal-white-15px2 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}

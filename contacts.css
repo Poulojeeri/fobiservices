@@ -1,0 +1,211 @@
+/* screen - contacts */
+
+a{
+  color: #0E2116;
+}
+.contacts {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 815px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.contacts .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 74px;
+  min-height: 184px;
+  width: 1440px;
+}
+
+.contacts .navbar {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 0px 0px 40px #0000001a;
+  display: flex;
+  gap: 546px;
+  height: 70px;
+  min-width: 1440px;
+  padding: 0 47px;
+}
+
+.contacts .logo-1 {
+  cursor: pointer;
+  height: 40px;
+  width: 40px;
+}
+
+.contacts .group-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 39px;
+  height: 23px;
+  margin-top: 3.0px;
+  min-width: 178px;
+}
+
+.contacts .accueil {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  min-width: 55px;
+}
+
+.contacts .catalogue {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+}
+
+.contacts .title {
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-left: 1.0px;
+  min-width: 429px;
+  white-space: nowrap;
+}
+
+.contacts .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 129px;
+  height: 451px;
+  margin-right: 9.0px;
+  margin-top: 41px;
+  min-width: 1081px;
+}
+
+.contacts .mask-group {
+  align-self: flex-end;
+  height: 443px;
+  width: 489px;
+}
+
+.contacts .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 441px;
+  width: 463px;
+}
+
+.contacts .prnom-et-nom {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  width: 244px;
+}
+
+.contacts .overlap-group {
+  height: 30px;
+  padding: 0 6.1px;
+}
+
+.contacts .remplir-le-champ {
+  letter-spacing: 0;
+  line-height: 26.8px;
+  margin-top: -1px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.contacts .adresse-mail {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 14px;
+  min-height: 23px;
+  width: 262px;
+}
+
+.contacts .tlphone {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 14px;
+  min-height: 23px;
+  width: 203px;
+}
+
+.contacts .message {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 14px;
+  min-height: 23px;
+  width: 193px;
+}
+
+.contacts .overlap-group4 {
+  height: 150px;
+  padding: 6px 6.1px;
+}
+
+.contacts .remplir-le-champ-1 {
+  letter-spacing: 0;
+  line-height: 26.8px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.contacts .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--aztec);
+  border-radius: 5px;
+  box-shadow: 0px 4px 10px #0000000d;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-top: 15px;
+  min-width: 463px;
+  padding: 4px 189px;
+}
+
+.contacts .envoyez {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m2);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  width: 84px;
+}
+
+.contacts .footer {
+  align-items: flex-start;
+  background-color: var(--aztec);
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 59px;
+  justify-content: flex-start;
+  margin-top: 81px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  padding: 16.3px 412px;
+  width: auto;
+}
+
+.contacts .fabi-services-2023 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  width: 615px;
+}
+
+.contacts .overlap {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--aztec-2);
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px #0000000d;
+  display: flex;
+  margin-top: 3px;
+  min-width: 463px;
+}

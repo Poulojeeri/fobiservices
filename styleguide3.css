@@ -1,0 +1,50 @@
+:root { 
+  --aztec: #0e2116;
+  --black: #000000;
+  --tan: #f6a867;
+  --white: #ffffff;
+ 
+  --font-size-m2: 20px;
+  --font-size-s: 15px;
+ 
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-normal-aztec-15px {
+  color: var(--aztec);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-tan-15px {
+  color: var(--tan);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-tan-20px {
+  color: var(--tan);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-aztec-20px {
+  color: var(--aztec);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
